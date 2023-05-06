@@ -8,7 +8,7 @@
 body{
   width: 100%;
   min-height: 100vh;
-  background: url(https://www.freepik.com/free-vector/flat-design-forest-landscape_20282260.htm#query=Deer%20illustration&position=1&from_view=search&track=ais) no-repeat;
+  background: url(/https://www.freepik.com/free-vector/flat-design-forest-landscape_20282260.htm#query=Deer%20illustration&position=1&from_view=search&track=ais) no-repeat;
   background-size: cover;
   background-position: center;
 }
